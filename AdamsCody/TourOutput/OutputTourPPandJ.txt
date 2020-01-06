@@ -1,0 +1,1801 @@
+FROM: (J)
+ON: 
+Go 140 feet in direction 224 degrees SW
+TO: (L24)
+(no skateboarding, 0.5 minutes)
+
+FROM: (L24)
+ON: 
+Go 175 feet in direction 197 degrees South
+TO: (G)
+(no skateboarding, 0.6 minutes)
+
+FROM: (G)
+ON: 
+Go 104 feet in direction 85 degrees East
+TO: (L25)
+(no skateboarding, 0.4 minutes)
+
+FROM: (L25)
+ON: 
+Go 104 feet in direction 265 degrees West
+TO: (G)
+(no skateboarding, 0.4 minutes)
+
+FROM: (G)
+ON: 
+Go 114 feet in direction 212 degrees SW
+TO: (L27)
+(no skateboarding, 0.4 minutes)
+
+FROM: (L27)
+ON: 
+Go 114 feet in direction 32 degrees NE
+TO: (G)
+(no skateboarding, 0.4 minutes)
+
+FROM: (G)
+ON: 
+Go 193 feet in direction 271 degrees West
+TO: (L26)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L26)
+ON: 
+Go 193 feet in direction 91 degrees East
+TO: (G)
+(no skateboarding, 0.7 minutes)
+
+FROM: (G)
+ON: 
+Go 251 feet in direction 152 degrees SE
+TO: (L28)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L28)
+ON: 
+Go 207 feet in direction 175 degrees South
+TO: (H)
+(no skateboarding, 0.8 minutes)
+
+FROM: (H)
+ON: South Street
+Go 296 feet in direction 235 degrees SW
+TO: (F)
+(no skateboarding, 1.1 minutes)
+
+FROM: (F)
+ON: 
+Go 162 feet in direction 117 degrees SE
+TO: (@)
+(no skateboarding, 0.6 minutes)
+
+FROM: (@)
+ON: 
+Go 162 feet in direction 297 degrees NW
+TO: (F)
+(no skateboarding, 0.6 minutes)
+
+FROM: (F)
+ON: South Street
+Go 483 feet in direction 241 degrees SW
+TO: (C)
+(no skateboarding, 1.8 minutes)
+
+FROM: (C)
+ON: Turner Street
+Go 364 feet in direction 263 degrees West
+TO: (L35)
+(no skateboarding, 1.3 minutes)
+
+FROM: (L35)
+ON: Turner Street
+Go 364 feet in direction 83 degrees East
+TO: (C)
+(no skateboarding, 1.3 minutes)
+
+FROM: (C)
+ON: South Street
+Go 713 feet in direction 238 degrees SW
+TO: (L36)
+(no skateboarding, 2.6 minutes)
+
+FROM: (L36)
+ON: Edge Connecting Map Lower Left Corner To A Map Location
+Go 1408 feet in direction 209 degrees SW
+TO: (CCC)
+(no skateboarding, 5.2 minutes)
+
+FROM: (CCC)
+ON: Edge Connecting Map Lower Left Corner To A Map Location
+Go 1408 feet in direction 29 degrees NE
+TO: (L36)
+(no skateboarding, 5.2 minutes)
+
+FROM: (L36)
+ON: South Street
+Go 713 feet in direction 58 degrees NE
+TO: (C)
+(no skateboarding, 2.6 minutes)
+
+FROM: (C)
+ON: 
+Go 772 feet in direction 281 degrees West
+TO: (L34)
+(no skateboarding, 2.8 minutes)
+
+FROM: (L34)
+ON: 
+Go 772 feet in direction 101 degrees East
+TO: (C)
+(no skateboarding, 2.8 minutes)
+
+FROM: (C)
+ON: South Street
+Go 483 feet in direction 61 degrees NE
+TO: (F)
+(no skateboarding, 1.8 minutes)
+
+FROM: (F)
+ON: South Street
+Go 296 feet in direction 55 degrees NE
+TO: (H)
+(no skateboarding, 1.1 minutes)
+
+FROM: (H)
+ON: Old South Street
+Go 525 feet in direction 83 degrees East
+TO: (L40)
+(no skateboarding, 1.9 minutes)
+
+FROM: (L40)
+ON: Old South Street
+Go 525 feet in direction 263 degrees West
+TO: (H)
+(no skateboarding, 1.9 minutes)
+
+FROM: (H)
+ON: 
+Go 207 feet in direction 355 degrees North
+TO: (L28)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L28)
+ON: 
+Go 251 feet in direction 332 degrees NW
+TO: (G)
+(no skateboarding, 0.9 minutes)
+
+FROM: (G)
+ON: 
+Go 320 feet in direction 261 degrees West
+TO: (E)
+(no skateboarding, 1.2 minutes)
+
+FROM: (E)
+ON: 
+Go 162 feet in direction 265 degrees West
+TO: (L30)
+(no skateboarding, 0.6 minutes)
+
+FROM: (L30)
+ON: 
+Go 162 feet in direction 85 degrees East
+TO: (E)
+(no skateboarding, 0.6 minutes)
+
+FROM: (E)
+ON: 
+Go 200 feet in direction 137 degrees SE
+TO: (L29)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L29)
+ON: 
+Go 200 feet in direction 317 degrees NW
+TO: (E)
+(no skateboarding, 0.7 minutes)
+
+FROM: (E)
+ON: 
+Go 248 feet in direction 231 degrees SW
+TO: (L31)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L31)
+ON: 
+Go 248 feet in direction 51 degrees NE
+TO: (E)
+(no skateboarding, 0.9 minutes)
+
+FROM: (E)
+ON: 
+Go 257 feet in direction 186 degrees South
+TO: (L32)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L32)
+ON: 
+Go 249 feet in direction 187 degrees South
+TO: (L33)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L33)
+ON: 
+Go 249 feet in direction 7 degrees North
+TO: (L32)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L32)
+ON: 
+Go 257 feet in direction 6 degrees North
+TO: (E)
+(no skateboarding, 0.9 minutes)
+
+FROM: (E)
+ON: 
+Go 320 feet in direction 81 degrees East
+TO: (G)
+(no skateboarding, 1.2 minutes)
+
+FROM: (G)
+ON: 
+Go 175 feet in direction 17 degrees North
+TO: (L24)
+(no skateboarding, 0.6 minutes)
+
+FROM: (L24)
+ON: 
+Go 369 feet in direction 102 degrees East
+TO: (<)
+(no skateboarding, 1.4 minutes)
+
+FROM: (<)
+ON: 
+Go 369 feet in direction 282 degrees West
+TO: (L24)
+(no skateboarding, 1.4 minutes)
+
+FROM: (L24)
+ON: 
+Go 140 feet in direction 44 degrees NE
+TO: (J)
+(no skateboarding, 0.5 minutes)
+
+FROM: (J)
+ON: Loop Road
+Go 167 feet in direction 110 degrees East
+TO: (K)
+(no skateboarding, 0.6 minutes)
+
+FROM: (K)
+ON: 
+Go 251 feet in direction 118 degrees SE
+TO: (L23)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L23)
+ON: 
+Go 251 feet in direction 298 degrees NW
+TO: (K)
+(no skateboarding, 0.9 minutes)
+
+FROM: (K)
+ON: 
+Go 300 feet in direction 62 degrees NE
+TO: (L21)
+(no skateboarding, 1.1 minutes)
+
+FROM: (L21)
+ON: 
+Go 315 feet in direction 87 degrees East
+TO: (L20)
+(no skateboarding, 1.2 minutes)
+
+FROM: (L20)
+ON: 
+Go 315 feet in direction 267 degrees West
+TO: (L21)
+(no skateboarding, 1.2 minutes)
+
+FROM: (L21)
+ON: 
+Go 300 feet in direction 242 degrees SW
+TO: (K)
+(no skateboarding, 1.1 minutes)
+
+FROM: (K)
+ON: 
+Go 454 feet in direction 107 degrees East
+TO: (>)
+(no skateboarding, 1.7 minutes)
+
+FROM: (>)
+ON: 
+Go 454 feet in direction 287 degrees West
+TO: (K)
+(no skateboarding, 1.7 minutes)
+
+FROM: (K)
+ON: Loop Road
+Go 770 feet in direction 91 degrees East
+TO: (L22)
+(no skateboarding, 2.8 minutes)
+
+FROM: (L22)
+ON: 
+Go 230 feet in direction 213 degrees SW
+TO: (L)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L)
+ON: 
+Go 230 feet in direction 33 degrees NE
+TO: (L22)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L22)
+ON: 
+Go 433 feet in direction 68 degrees East
+TO: (O)
+(no skateboarding, 1.6 minutes)
+
+FROM: (O)
+ON: 
+Go 433 feet in direction 248 degrees West
+TO: (L22)
+(no skateboarding, 1.6 minutes)
+
+FROM: (L22)
+ON: Loop Road
+Go 1063 feet in direction 74 degrees East
+TO: (V)
+(no skateboarding, 3.9 minutes)
+
+FROM: (V)
+ON: Squire Bridge Steps
+Go 132 feet in direction 164 degrees South
+TO: (A1n)
+(no skateboarding, 0.5 minutes)
+
+FROM: (A1n)
+ON: Squire Bridge
+Go 167 feet in direction 122 degrees SE
+TO: (A1)
+(no skateboarding, 0.6 minutes)
+
+FROM: (A1)
+ON: Squire Bridge
+Go 167 feet in direction 302 degrees NW
+TO: (A1n)
+(no skateboarding, 0.6 minutes)
+
+FROM: (A1n)
+ON: Squire Bridge Steps
+Go 132 feet in direction 344 degrees North
+TO: (V)
+(no skateboarding, 1.0 minutes)
+
+FROM: (V)
+ON: 
+Go 289 feet in direction 76 degrees East
+TO: (=)
+(no skateboarding, 1.1 minutes)
+
+FROM: (=)
+ON: 
+Go 289 feet in direction 256 degrees West
+TO: (V)
+(no skateboarding, 1.1 minutes)
+
+FROM: (V)
+ON: 
+Go 309 feet in direction 80 degrees East
+TO: (U47)
+(no skateboarding, 1.1 minutes)
+
+FROM: (U47)
+ON: 
+Go 174 feet in direction 80 degrees East
+TO: (W)
+(no skateboarding, 0.6 minutes)
+
+FROM: (W)
+ON: 
+Go 324 feet in direction 23 degrees NE
+TO: (U41)
+(no skateboarding, 1.2 minutes)
+
+FROM: (U41)
+ON: 
+Go 109 feet in direction 127 degrees SE
+TO: (U44)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U44)
+ON: 
+Go 109 feet in direction 307 degrees NW
+TO: (U41)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U41)
+ON: 
+Go 158 feet in direction 347 degrees North
+TO: (U42)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U42)
+ON: 
+Go 158 feet in direction 167 degrees South
+TO: (U41)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U41)
+ON: 
+Go 169 feet in direction 63 degrees NE
+TO: (U43)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U43)
+ON: 
+Go 169 feet in direction 243 degrees SW
+TO: (U41)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U41)
+ON: 
+Go 324 feet in direction 203 degrees SW
+TO: (W)
+(no skateboarding, 1.2 minutes)
+
+FROM: (W)
+ON: East Quad Lower Lot Driveway
+Go 425 feet in direction 81 degrees East
+TO: (%)
+(no skateboarding, 1.6 minutes)
+
+FROM: (%)
+ON: East Quad Lower Lot Driveway
+Go 425 feet in direction 261 degrees West
+TO: (W)
+(no skateboarding, 1.6 minutes)
+
+FROM: (W)
+ON: 
+Go 174 feet in direction 260 degrees West
+TO: (U47)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U47)
+ON: 
+Go 309 feet in direction 260 degrees West
+TO: (V)
+(no skateboarding, 1.1 minutes)
+
+FROM: (V)
+ON: Loop Road
+Go 1063 feet in direction 254 degrees West
+TO: (L22)
+(no skateboarding, 3.9 minutes)
+
+FROM: (L22)
+ON: 
+Go 1163 feet in direction 88 degrees East
+TO: (A1u)
+(no skateboarding, 4.3 minutes)
+
+FROM: (A1u)
+ON: Athletics Driveway
+Go 187 feet in direction 156 degrees SE
+TO: (Y)
+(no skateboarding, 0.7 minutes)
+
+FROM: (Y)
+ON: 
+Go 90 feet in direction 17 degrees North
+TO: (A1s)
+(no skateboarding, 0.3 minutes)
+
+FROM: (A1s)
+ON: 
+Go 90 feet in direction 197 degrees South
+TO: (Y)
+(no skateboarding, 0.3 minutes)
+
+FROM: (Y)
+ON: 
+Go 164 feet in direction 58 degrees NE
+TO: (A2e)
+(no skateboarding, 0.6 minutes)
+
+FROM: (A2e)
+ON: 
+Go 164 feet in direction 238 degrees SW
+TO: (Y)
+(no skateboarding, 0.6 minutes)
+
+FROM: (Y)
+ON: 
+Go 365 feet in direction 61 degrees NE
+TO: (A2)
+(no skateboarding, 1.3 minutes)
+
+FROM: (A2)
+ON: 
+Go 235 feet in direction 138 degrees SE
+TO: (A5)
+(no skateboarding, 0.9 minutes)
+
+FROM: (A5)
+ON: 
+Go 235 feet in direction 318 degrees NW
+TO: (A2)
+(no skateboarding, 0.9 minutes)
+
+FROM: (A2)
+ON: 
+Go 365 feet in direction 241 degrees SW
+TO: (Y)
+(no skateboarding, 1.3 minutes)
+
+FROM: (Y)
+ON: Athletics Driveway
+Go 456 feet in direction 129 degrees SE
+TO: (Z)
+(no skateboarding, 1.7 minutes)
+
+FROM: (Z)
+ON: 
+Go 173 feet in direction 100 degrees East
+TO: (A6)
+(no skateboarding, 0.6 minutes)
+
+FROM: (A6)
+ON: Edge Connecting Map Lower Right Corner To A Map Location
+Go 2446 feet in direction 159 degrees South
+TO: (DDD)
+(no skateboarding, 9.0 minutes)
+
+FROM: (DDD)
+ON: Edge Connecting Map Lower Right Corner To A Map Location
+Go 2446 feet in direction 339 degrees North
+TO: (A6)
+(no skateboarding, 9.0 minutes)
+
+FROM: (A6)
+ON: 
+Go 173 feet in direction 280 degrees West
+TO: (Z)
+(no skateboarding, 0.6 minutes)
+
+FROM: (Z)
+ON: Athletics Driveway
+Go 456 feet in direction 309 degrees NW
+TO: (Y)
+(no skateboarding, 1.7 minutes)
+
+FROM: (Y)
+ON: Marcus Field
+Go 514 feet in direction 218 degrees SW
+TO: (A7)
+(no skateboarding, 1.9 minutes)
+
+FROM: (A7)
+ON: Marcus Field
+Go 418 feet in direction 266 degrees West
+TO: (^)
+(no skateboarding, 1.5 minutes)
+
+FROM: (^)
+ON: Gordon Field
+Go 267 feet in direction 259 degrees West
+TO: (A8)
+(no skateboarding, 1.0 minutes)
+
+FROM: (A8)
+ON: Gordon Field
+Go 267 feet in direction 79 degrees East
+TO: (^)
+(no skateboarding, 1.0 minutes)
+
+FROM: (^)
+ON: Marcus Field
+Go 418 feet in direction 86 degrees East
+TO: (A7)
+(no skateboarding, 1.5 minutes)
+
+FROM: (A7)
+ON: Marcus Field
+Go 514 feet in direction 38 degrees NE
+TO: (Y)
+(no skateboarding, 1.9 minutes)
+
+FROM: (Y)
+ON: Athletics Path
+Go 549 feet in direction 269 degrees West
+TO: (&)
+(no skateboarding, 2.0 minutes)
+
+FROM: (&)
+ON: Athletics Path
+Go 549 feet in direction 89 degrees East
+TO: (Y)
+(no skateboarding, 2.0 minutes)
+
+FROM: (Y)
+ON: Athletics Driveway
+Go 187 feet in direction 336 degrees NW
+TO: (A1u)
+(no skateboarding, 0.7 minutes)
+
+FROM: (A1u)
+ON: South Street
+Go 430 feet in direction 76 degrees East
+TO: (X)
+(no skateboarding, 1.6 minutes)
+
+FROM: (X)
+ON: 
+Go 206 feet in direction 104 degrees East
+TO: (A3)
+(no skateboarding, 0.8 minutes)
+
+FROM: (A3)
+ON: 
+Go 206 feet in direction 284 degrees West
+TO: (X)
+(no skateboarding, 0.8 minutes)
+
+FROM: (X)
+ON: 
+Go 225 feet in direction 270 degrees West
+TO: (U46)
+(no skateboarding, 0.9 minutes)
+
+FROM: (U46)
+ON: 
+Go 130 feet in direction 67 degrees NE
+TO: (U45)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U45)
+ON: 
+Go 130 feet in direction 247 degrees SW
+TO: (U46)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U46)
+ON: 
+Go 225 feet in direction 90 degrees East
+TO: (X)
+(no skateboarding, 0.8 minutes)
+
+FROM: (X)
+ON: South Street
+Go 285 feet in direction 60 degrees NE
+TO: (;)
+(no skateboarding, 1.0 minutes)
+
+FROM: (;)
+ON: South Street
+Go 285 feet in direction 240 degrees SW
+TO: (X)
+(no skateboarding, 1.0 minutes)
+
+FROM: (X)
+ON: 
+Go 399 feet in direction 117 degrees SE
+TO: (?)
+(no skateboarding, 1.5 minutes)
+
+FROM: (?)
+ON: Athletics Driveway
+Go 249 feet in direction 139 degrees SE
+TO: (+)
+(no skateboarding, 0.9 minutes)
+
+FROM: (+)
+ON: Athletics Driveway
+Go 249 feet in direction 319 degrees NW
+TO: (?)
+(no skateboarding, 0.9 minutes)
+
+FROM: (?)
+ON: 
+Go 251 feet in direction 63 degrees NE
+TO: (A4)
+(no skateboarding, 0.9 minutes)
+
+FROM: (A4)
+ON: 
+Go 251 feet in direction 243 degrees SW
+TO: (?)
+(no skateboarding, 0.9 minutes)
+
+FROM: (?)
+ON: 
+Go 399 feet in direction 297 degrees NW
+TO: (X)
+(no skateboarding, 1.5 minutes)
+
+FROM: (X)
+ON: 
+Go 423 feet in direction 278 degrees West
+TO: (U48)
+(no skateboarding, 1.7 minutes)
+
+FROM: (U48)
+ON: 
+Go 423 feet in direction 98 degrees East
+TO: (X)
+(no skateboarding, 1.4 minutes)
+
+FROM: (X)
+ON: South Street
+Go 430 feet in direction 256 degrees West
+TO: (A1u)
+(no skateboarding, 1.6 minutes)
+
+FROM: (A1u)
+ON: 
+Go 1163 feet in direction 268 degrees West
+TO: (L22)
+(no skateboarding, 4.3 minutes)
+
+FROM: (L22)
+ON: Loop Road
+Go 770 feet in direction 271 degrees West
+TO: (K)
+(no skateboarding, 2.8 minutes)
+
+FROM: (K)
+ON: Loop Road
+Go 167 feet in direction 290 degrees West
+TO: (J)
+(no skateboarding, 0.6 minutes)
+
+FROM: (J)
+ON: Loop Road
+Go 229 feet in direction 298 degrees NW
+TO: (I)
+(no skateboarding, 0.8 minutes)
+
+FROM: (I)
+ON: 
+Go 181 feet in direction 46 degrees NE
+TO: (L7)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L7)
+ON: 
+Go 276 feet in direction 72 degrees East
+TO: (L8)
+(no skateboarding, 1.0 minutes)
+
+FROM: (L8)
+ON: 
+Go 276 feet in direction 252 degrees West
+TO: (L7)
+(no skateboarding, 1.0 minutes)
+
+FROM: (L7)
+ON: 
+Go 386 feet in direction 36 degrees NE
+TO: (L9)
+(no skateboarding, 1.4 minutes)
+
+FROM: (L9)
+ON: 
+Go 249 feet in direction 58 degrees NE
+TO: (L11)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L11)
+ON: 
+Go 249 feet in direction 238 degrees SW
+TO: (L9)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L9)
+ON: 
+Go 386 feet in direction 216 degrees SW
+TO: (L7)
+(no skateboarding, 1.4 minutes)
+
+FROM: (L7)
+ON: 
+Go 181 feet in direction 226 degrees SW
+TO: (I)
+(no skateboarding, 0.7 minutes)
+
+FROM: (I)
+ON: 
+Go 390 feet in direction 9 degrees North
+TO: (#)
+(no skateboarding, 1.4 minutes)
+
+FROM: (#)
+ON: 
+Go 390 feet in direction 189 degrees South
+TO: (I)
+(no skateboarding, 1.4 minutes)
+
+FROM: (I)
+ON: Museum Circle
+Go 394 feet in direction 304 degrees NW
+TO: (L6)
+(no skateboarding, 1.4 minutes)
+
+FROM: (L6)
+ON: Museum Circle
+Go 394 feet in direction 124 degrees SE
+TO: (I)
+(no skateboarding, 1.4 minutes)
+
+FROM: (I)
+ON: Museum Circle
+Go 413 feet in direction 278 degrees West
+TO: (L5)
+(no skateboarding, 1.5 minutes)
+
+FROM: (L5)
+ON: Museum Circle
+Go 413 feet in direction 98 degrees East
+TO: (I)
+(no skateboarding, 1.5 minutes)
+
+FROM: (I)
+ON: Loop Road
+Go 508 feet in direction 20 degrees North
+TO: (M)
+(no skateboarding, 1.9 minutes)
+
+FROM: (M)
+ON: 
+Go 186 feet in direction 36 degrees NE
+TO: (L10)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L10)
+ON: 
+Go 407 feet in direction 69 degrees East
+TO: (U1)
+(no skateboarding, 1.5 minutes)
+
+FROM: (U1)
+ON: 
+Go 407 feet in direction 249 degrees West
+TO: (L10)
+(no skateboarding, 1.5 minutes)
+
+FROM: (L10)
+ON: 
+Go 186 feet in direction 216 degrees SW
+TO: (M)
+(no skateboarding, 0.7 minutes)
+
+FROM: (M)
+ON: Loop Road
+Go 634 feet in direction 53 degrees NE
+TO: (P)
+(no skateboarding, 2.3 minutes)
+
+FROM: (P)
+ON: 
+Go 961 feet in direction 69 degrees East
+TO: ($)
+(no skateboarding, 3.5 minutes)
+
+FROM: ($)
+ON: 
+Go 258 feet in direction 199 degrees South
+TO: (U8)
+(no skateboarding, 0.9 minutes)
+
+FROM: (U8)
+ON: 
+Go 258 feet in direction 19 degrees North
+TO: ($)
+(no skateboarding, 0.9 minutes)
+
+FROM: ($)
+ON: 
+Go 337 feet in direction 234 degrees SW
+TO: (U5)
+(no skateboarding, 1.2 minutes)
+
+FROM: (U5)
+ON: 
+Go 114 feet in direction 11 degrees North
+TO: (U7)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U7)
+ON: 
+Go 114 feet in direction 191 degrees South
+TO: (U5)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U5)
+ON: 
+Go 156 feet in direction 299 degrees NW
+TO: (U6)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U6)
+ON: 
+Go 156 feet in direction 119 degrees SE
+TO: (U5)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U5)
+ON: 
+Go 337 feet in direction 54 degrees NE
+TO: ($)
+(no skateboarding, 1.2 minutes)
+
+FROM: ($)
+ON: 
+Go 961 feet in direction 249 degrees West
+TO: (P)
+(no skateboarding, 3.5 minutes)
+
+FROM: (P)
+ON: Loop Road
+Go 634 feet in direction 233 degrees SW
+TO: (M)
+(no skateboarding, 2.3 minutes)
+
+FROM: (M)
+ON: Loop Road
+Go 508 feet in direction 200 degrees South
+TO: (I)
+(no skateboarding, 1.9 minutes)
+
+FROM: (I)
+ON: Loop Road
+Go 229 feet in direction 118 degrees SE
+TO: (J)
+(no skateboarding, 0.8 minutes)
+
+FROM: (J)
+ON: 
+Go 510 feet in direction 72 degrees East
+TO: (N)
+(no skateboarding, 1.9 minutes)
+
+FROM: (N)
+ON: 
+Go 181 feet in direction 314 degrees NW
+TO: (L17)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L17)
+ON: 
+Go 203 feet in direction 5 degrees North
+TO: (L13)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L13)
+ON: 
+Go 210 feet in direction 29 degrees NE
+TO: (L12)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L12)
+ON: 
+Go 210 feet in direction 209 degrees SW
+TO: (L13)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L13)
+ON: 
+Go 203 feet in direction 185 degrees South
+TO: (L17)
+(no skateboarding, 0.7 minutes)
+
+FROM: (L17)
+ON: 
+Go 181 feet in direction 134 degrees SE
+TO: (N)
+(no skateboarding, 0.7 minutes)
+
+FROM: (N)
+ON: 
+Go 266 feet in direction 74 degrees East
+TO: (L19)
+(no skateboarding, 1.0 minutes)
+
+FROM: (L19)
+ON: 
+Go 266 feet in direction 254 degrees West
+TO: (N)
+(no skateboarding, 1.0 minutes)
+
+FROM: (N)
+ON: 
+Go 287 feet in direction 45 degrees NE
+TO: (L18)
+(no skateboarding, 1.1 minutes)
+
+FROM: (L18)
+ON: 
+Go 287 feet in direction 225 degrees SW
+TO: (N)
+(no skateboarding, 1.1 minutes)
+
+FROM: (N)
+ON: 
+Go 316 feet in direction 4 degrees North
+TO: (L16)
+(no skateboarding, 1.2 minutes)
+
+FROM: (L16)
+ON: 
+Go 215 feet in direction 61 degrees NE
+TO: (L15)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L15)
+ON: 
+Go 122 feet in direction 336 degrees NW
+TO: (L14)
+(no skateboarding, 0.4 minutes)
+
+FROM: (L14)
+ON: 
+Go 132 feet in direction 352 degrees North
+TO: (U3)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U3)
+ON: 
+Go 176 feet in direction 352 degrees North
+TO: (U2)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U2)
+ON: 
+Go 176 feet in direction 172 degrees South
+TO: (U3)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U3)
+ON: 
+Go 132 feet in direction 172 degrees South
+TO: (L14)
+(no skateboarding, 0.5 minutes)
+
+FROM: (L14)
+ON: 
+Go 122 feet in direction 156 degrees SE
+TO: (L15)
+(no skateboarding, 0.4 minutes)
+
+FROM: (L15)
+ON: 
+Go 215 feet in direction 241 degrees SW
+TO: (L16)
+(no skateboarding, 0.8 minutes)
+
+FROM: (L16)
+ON: 
+Go 316 feet in direction 184 degrees South
+TO: (N)
+(no skateboarding, 1.2 minutes)
+
+FROM: (N)
+ON: 
+Go 384 feet in direction 81 degrees East
+TO: (R)
+(no skateboarding, 1.4 minutes)
+
+FROM: (R)
+ON: 
+Go 347 feet in direction 76 degrees East
+TO: (U31)
+(no skateboarding, 1.3 minutes)
+
+FROM: (U31)
+ON: 
+Go 81 feet in direction 6 degrees North
+TO: (U30)
+(no skateboarding, 0.3 minutes)
+
+FROM: (U30)
+ON: 
+Go 81 feet in direction 186 degrees South
+TO: (U31)
+(no skateboarding, 0.3 minutes)
+
+FROM: (U31)
+ON: 
+Go 283 feet in direction 94 degrees East
+TO: (U34)
+(no skateboarding, 1.0 minutes)
+
+FROM: (U34)
+ON: 
+Go 156 feet in direction 59 degrees NE
+TO: (*)
+(no skateboarding, 0.6 minutes)
+
+FROM: (*)
+ON: 
+Go 522 feet in direction 81 degrees East
+TO: (S)
+(no skateboarding, 1.9 minutes)
+
+FROM: (S)
+ON: 
+Go 522 feet in direction 261 degrees West
+TO: (*)
+(no skateboarding, 1.9 minutes)
+
+FROM: (*)
+ON: 
+Go 156 feet in direction 239 degrees SW
+TO: (U34)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U34)
+ON: 
+Go 265 feet in direction 81 degrees East
+TO: (U35)
+(no skateboarding, 1.0 minutes)
+
+FROM: (U35)
+ON: 
+Go 157 feet in direction 126 degrees SE
+TO: (U36)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U36)
+ON: 
+Go 157 feet in direction 306 degrees NW
+TO: (U35)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U35)
+ON: 
+Go 265 feet in direction 261 degrees West
+TO: (U34)
+(no skateboarding, 1.0 minutes)
+
+FROM: (U34)
+ON: 
+Go 283 feet in direction 274 degrees West
+TO: (U31)
+(no skateboarding, 1.0 minutes)
+
+FROM: (U31)
+ON: 
+Go 347 feet in direction 256 degrees West
+TO: (R)
+(no skateboarding, 1.3 minutes)
+
+FROM: (R)
+ON: 
+Go 374 feet in direction 51 degrees NE
+TO: (U27)
+(no skateboarding, 1.4 minutes)
+
+FROM: (U27)
+ON: 
+Go 143 feet in direction 104 degrees East
+TO: (U29)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U29)
+ON: 
+Go 146 feet in direction 56 degrees NE
+TO: (U28)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U28)
+ON: 
+Go 146 feet in direction 236 degrees SW
+TO: (U29)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U29)
+ON: 
+Go 143 feet in direction 284 degrees West
+TO: (U27)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U27)
+ON: 
+Go 374 feet in direction 231 degrees SW
+TO: (R)
+(no skateboarding, 1.4 minutes)
+
+FROM: (R)
+ON: 
+Go 384 feet in direction 261 degrees West
+TO: (N)
+(no skateboarding, 1.4 minutes)
+
+FROM: (N)
+ON: Central Campus Walkway Through Fellows Garden
+Go 392 feet in direction 44 degrees NE
+TO: (Q)
+(no skateboarding, 1.4 minutes)
+
+FROM: (Q)
+ON: 
+Go 245 feet in direction 82 degrees East
+TO: (U26)
+(no skateboarding, 0.9 minutes)
+
+FROM: (U26)
+ON: 
+Go 140 feet in direction 50 degrees NE
+TO: (U25)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U25)
+ON: 
+Go 157 feet in direction 86 degrees East
+TO: (U24)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U24)
+ON: 
+Go 157 feet in direction 266 degrees West
+TO: (U25)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U25)
+ON: 
+Go 140 feet in direction 230 degrees SW
+TO: (U26)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U26)
+ON: 
+Go 245 feet in direction 262 degrees West
+TO: (Q)
+(no skateboarding, 0.9 minutes)
+
+FROM: (Q)
+ON: 
+Go 267 feet in direction 24 degrees NE
+TO: (U4)
+(no skateboarding, 1.0 minutes)
+
+FROM: (U4)
+ON: 
+Go 388 feet in direction 78 degrees East
+TO: (U22)
+(no skateboarding, 1.4 minutes)
+
+FROM: (U22)
+ON: 
+Go 388 feet in direction 258 degrees West
+TO: (U4)
+(no skateboarding, 1.4 minutes)
+
+FROM: (U4)
+ON: 
+Go 267 feet in direction 204 degrees SW
+TO: (Q)
+(no skateboarding, 1.0 minutes)
+
+FROM: (Q)
+ON: Central Campus Walkway
+Go 555 feet in direction 68 degrees East
+TO: (T)
+(no skateboarding, 2.0 minutes)
+
+FROM: (T)
+ON: 
+Go 118 feet in direction 81 degrees East
+TO: (U23)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U23)
+ON: 
+Go 207 feet in direction 27 degrees NE
+TO: (U21)
+(no skateboarding, 0.8 minutes)
+
+FROM: (U21)
+ON: 
+Go 207 feet in direction 207 degrees SW
+TO: (U23)
+(no skateboarding, 0.8 minutes)
+
+FROM: (U23)
+ON: 
+Go 118 feet in direction 261 degrees West
+TO: (T)
+(no skateboarding, 0.4 minutes)
+
+FROM: (T)
+ON: Central Campus Walkway
+Go 278 feet in direction 82 degrees East
+TO: (U)
+(no skateboarding, 1.0 minutes)
+
+FROM: (U)
+ON: 
+Go 112 feet in direction 99 degrees East
+TO: (U37)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U37)
+ON: 
+Go 187 feet in direction 113 degrees SE
+TO: (U38)
+(no skateboarding, 0.7 minutes)
+
+FROM: (U38)
+ON: 
+Go 197 feet in direction 100 degrees East
+TO: (U39)
+(no skateboarding, 0.7 minutes)
+
+FROM: (U39)
+ON: 
+Go 197 feet in direction 280 degrees West
+TO: (U38)
+(no skateboarding, 0.7 minutes)
+
+FROM: (U38)
+ON: 
+Go 187 feet in direction 293 degrees NW
+TO: (U37)
+(no skateboarding, 0.7 minutes)
+
+FROM: (U37)
+ON: 
+Go 337 feet in direction 67 degrees NE
+TO: (U20)
+(no skateboarding, 1.2 minutes)
+
+FROM: (U20)
+ON: 
+Go 162 feet in direction 94 degrees East
+TO: (6)
+(no skateboarding, 0.6 minutes)
+
+FROM: (6)
+ON: Mandel Rear Access Road
+Go 289 feet in direction 74 degrees East
+TO: (5)
+(no skateboarding, 1.1 minutes)
+
+FROM: (5)
+ON: Mandel Rear Access Road
+Go 162 feet in direction 48 degrees NE
+TO: (U18)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U18)
+ON: Mandel Rear Access Road
+Go 147 feet in direction 340 degrees North
+TO: (U17)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U17)
+ON: Edge Connecting Map Upper Right Corner To A Map Location
+Go 1225 feet in direction 67 degrees NE
+TO: (BBB)
+(no skateboarding, 4.5 minutes)
+
+FROM: (BBB)
+ON: Edge Connecting Map Upper Right Corner To A Map Location
+Go 1225 feet in direction 247 degrees SW
+TO: (U17)
+(no skateboarding, 4.5 minutes)
+
+FROM: (U17)
+ON: Mandel Rear Access Road
+Go 147 feet in direction 160 degrees South
+TO: (U18)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U18)
+ON: Mandel Rear Access Road
+Go 162 feet in direction 228 degrees SW
+TO: (5)
+(no skateboarding, 0.6 minutes)
+
+FROM: (5)
+ON: 
+Go 167 feet in direction 336 degrees NW
+TO: (3)
+(no skateboarding, 0.6 minutes)
+
+FROM: (3)
+ON: 
+Go 167 feet in direction 156 degrees SE
+TO: (5)
+(no skateboarding, 0.6 minutes)
+
+FROM: (5)
+ON: Mandel Rear Access Road
+Go 289 feet in direction 254 degrees West
+TO: (6)
+(no skateboarding, 1.1 minutes)
+
+FROM: (6)
+ON: 
+Go 162 feet in direction 274 degrees West
+TO: (U20)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U20)
+ON: 
+Go 337 feet in direction 247 degrees SW
+TO: (U37)
+(no skateboarding, 1.2 minutes)
+
+FROM: (U37)
+ON: 
+Go 112 feet in direction 279 degrees West
+TO: (U)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U)
+ON: Central Campus Walkway
+Go 290 feet in direction 42 degrees NE
+TO: (2)
+(no skateboarding, 1.1 minutes)
+
+FROM: (2)
+ON: Rabb Steps
+Go 165 feet in direction 40 degrees NE
+TO: (U14)
+(no skateboarding, 1.2 minutes)
+
+FROM: (U14)
+ON: 
+Go 149 feet in direction 333 degrees NW
+TO: (0)
+(no skateboarding, 0.5 minutes)
+
+FROM: (0)
+ON: 
+Go 81 feet in direction 252 degrees West
+TO: (U10)
+(no skateboarding, 0.3 minutes)
+
+FROM: (U10)
+ON: 
+Go 81 feet in direction 72 degrees East
+TO: (0)
+(no skateboarding, 0.3 minutes)
+
+FROM: (0)
+ON: 
+Go 118 feet in direction 52 degrees NE
+TO: (U12)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U12)
+ON: Mandel Rear Access Road
+Go 413 feet in direction 103 degrees East
+TO: (U16)
+(no skateboarding, 1.5 minutes)
+
+FROM: (U16)
+ON: Mandel Rear Access Road
+Go 413 feet in direction 283 degrees West
+TO: (U12)
+(no skateboarding, 1.5 minutes)
+
+FROM: (U12)
+ON: 
+Go 118 feet in direction 232 degrees SW
+TO: (0)
+(no skateboarding, 0.4 minutes)
+
+FROM: (0)
+ON: 
+Go 121 feet in direction 308 degrees NW
+TO: (U11)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U11)
+ON: 
+Go 121 feet in direction 128 degrees SE
+TO: (0)
+(no skateboarding, 0.4 minutes)
+
+FROM: (0)
+ON: 
+Go 167 feet in direction 106 degrees East
+TO: (U13)
+(no skateboarding, 0.6 minutes)
+
+FROM: (U13)
+ON: 
+Go 167 feet in direction 286 degrees West
+TO: (0)
+(no skateboarding, 0.6 minutes)
+
+FROM: (0)
+ON: 
+Go 149 feet in direction 153 degrees SE
+TO: (U14)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U14)
+ON: Rabb Steps
+Go 165 feet in direction 220 degrees SW
+TO: (2)
+(no skateboarding, 0.7 minutes)
+
+FROM: (2)
+ON: Loop Road
+Go 197 feet in direction 103 degrees East
+TO: (4)
+(no skateboarding, 0.7 minutes)
+
+FROM: (4)
+ON: 
+Go 159 feet in direction 83 degrees East
+TO: (:)
+(no skateboarding, 0.6 minutes)
+
+FROM: (:)
+ON: 
+Go 136 feet in direction 82 degrees East
+TO: (U19)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U19)
+ON: 
+Go 202 feet in direction 323 degrees NW
+TO: (U15)
+(no skateboarding, 0.7 minutes)
+
+FROM: (U15)
+ON: 
+Go 202 feet in direction 143 degrees SE
+TO: (U19)
+(no skateboarding, 0.7 minutes)
+
+FROM: (U19)
+ON: 
+Go 136 feet in direction 262 degrees West
+TO: (:)
+(no skateboarding, 0.5 minutes)
+
+FROM: (:)
+ON: 
+Go 159 feet in direction 263 degrees West
+TO: (4)
+(no skateboarding, 0.6 minutes)
+
+FROM: (4)
+ON: Loop Road
+Go 197 feet in direction 283 degrees West
+TO: (2)
+(no skateboarding, 0.7 minutes)
+
+FROM: (2)
+ON: Loop Road
+Go 284 feet in direction 299 degrees NW
+TO: (1)
+(no skateboarding, 1.0 minutes)
+
+FROM: (1)
+ON: 
+Go 91 feet in direction 351 degrees North
+TO: (U9)
+(no skateboarding, 0.4 minutes)
+
+FROM: (U9)
+ON: 
+Go 91 feet in direction 171 degrees South
+TO: (1)
+(no skateboarding, 0.3 minutes)
+
+FROM: (1)
+ON: Loop Road
+Go 284 feet in direction 119 degrees SE
+TO: (2)
+(no skateboarding, 1.0 minutes)
+
+FROM: (2)
+ON: Central Campus Walkway
+Go 290 feet in direction 222 degrees SW
+TO: (U)
+(no skateboarding, 1.1 minutes)
+
+FROM: (U)
+ON: Path Between Usdan and Kutz/Schwartz/Lemberg
+Go 553 feet in direction 102 degrees East
+TO: (7)
+(no skateboarding, 2.0 minutes)
+
+FROM: (7)
+ON: Usen Driveway
+Go 126 feet in direction 93 degrees East
+TO: (U40)
+(no skateboarding, 0.5 minutes)
+
+FROM: (U40)
+ON: Usen Driveway
+Go 126 feet in direction 273 degrees West
+TO: (7)
+(no skateboarding, 0.5 minutes)
+
+FROM: (7)
+ON: Usen Bypass
+Go 161 feet in direction 37 degrees NE
+TO: (8)
+(no skateboarding, 0.6 minutes)
+
+FROM: (8)
+ON: Loop Road
+Go 257 feet in direction 116 degrees SE
+TO: (9)
+(no skateboarding, 0.9 minutes)
+
+FROM: (9)
+ON: Loop Road
+Go 257 feet in direction 296 degrees NW
+TO: (8)
+(no skateboarding, 0.9 minutes)
+
+FROM: (8)
+ON: Usen Bypass
+Go 161 feet in direction 217 degrees SW
+TO: (7)
+(no skateboarding, 0.6 minutes)
+
+FROM: (7)
+ON: Path Between Usdan and Kutz/Schwartz/Lemberg
+Go 553 feet in direction 282 degrees West
+TO: (U)
+(no skateboarding, 2.0 minutes)
+
+FROM: (U)
+ON: Central Campus Walkway
+Go 278 feet in direction 262 degrees West
+TO: (T)
+(no skateboarding, 1.0 minutes)
+
+FROM: (T)
+ON: Central Campus Walkway
+Go 555 feet in direction 248 degrees West
+TO: (Q)
+(no skateboarding, 2.0 minutes)
+
+FROM: (Q)
+ON: Central Campus Walkway Through Fellows Garden
+Go 392 feet in direction 224 degrees SW
+TO: (N)
+(no skateboarding, 1.4 minutes)
+
+FROM: (N)
+ON: 
+Go 510 feet in direction 252 degrees West
+TO: (J)
+(no skateboarding, 1.9 minutes)
+
+FROM: (J)
+ON: 
+Go 519 feet in direction 268 degrees West
+TO: (L4)
+(no skateboarding, 1.9 minutes)
+
+FROM: (L4)
+ON: 
+Go 243 feet in direction 273 degrees West
+TO: (D)
+(no skateboarding, 0.9 minutes)
+
+FROM: (D)
+ON: 
+Go 81 feet in direction 353 degrees North
+TO: (L3)
+(no skateboarding, 0.3 minutes)
+
+FROM: (L3)
+ON: 
+Go 81 feet in direction 173 degrees South
+TO: (D)
+(no skateboarding, 0.3 minutes)
+
+FROM: (D)
+ON: Business School Path
+Go 446 feet in direction 279 degrees West
+TO: (L2)
+(no skateboarding, 1.6 minutes)
+
+FROM: (L2)
+ON: 
+Go 287 feet in direction 294 degrees NW
+TO: (L1)
+(no skateboarding, 1.1 minutes)
+
+FROM: (L1)
+ON: Edge Connecting Map Upper Left Corner To A Map Location
+Go 1509 feet in direction 342 degrees North
+TO: (AAA)
+(no skateboarding, 5.5 minutes)
+
+FROM: (AAA)
+ON: Edge Connecting Map Upper Left Corner To A Map Location
+Go 1509 feet in direction 162 degrees South
+TO: (L1)
+(no skateboarding, 5.5 minutes)
+
+FROM: (L1)
+ON: 
+Go 287 feet in direction 114 degrees SE
+TO: (L2)
+(no skateboarding, 1.1 minutes)
+
+FROM: (L2)
+ON: Business School Path
+Go 446 feet in direction 99 degrees East
+TO: (D)
+(no skateboarding, 1.6 minutes)
+
+FROM: (D)
+ON: 
+Go 243 feet in direction 93 degrees East
+TO: (L4)
+(no skateboarding, 0.9 minutes)
+
+FROM: (L4)
+ON: 
+Go 519 feet in direction 88 degrees East
+TO: (J)
+(no skateboarding, 1.9 minutes)
+
+FROM: (J)
+ON: 
+Go 852 feet in direction 256 degrees West
+TO: (!)
+(no skateboarding, 3.1 minutes)
+
+FROM: (!)
+ON: 
+Go 445 feet in direction 243 degrees SW
+TO: (~)
+(no skateboarding, 1.6 minutes)
+
+FROM: (~)
+ON: Lower Theater Lot Rear Access
+Go 296 feet in direction 191 degrees South
+TO: (B)
+(no skateboarding, 1.0 minutes)
+
+FROM: (B)
+ON: Lower Theater Lot Rear Access
+Go 296 feet in direction 11 degrees North
+TO: (~)
+(no skateboarding, 1.2 minutes)
+
+FROM: (~)
+ON: 
+Go 445 feet in direction 63 degrees NE
+TO: (!)
+(no skateboarding, 1.6 minutes)
+
+FROM: (!)
+ON: 
+Go 486 feet in direction 283 degrees West
+TO: (A)
+(no skateboarding, 1.8 minutes)
+
+FROM: (A)
+ON: 
+Go 486 feet in direction 103 degrees East
+TO: (!)
+(no skateboarding, 1.8 minutes)
+
+FROM: (!)
+ON: 
+Go 852 feet in direction 76 degrees East
+TO: (J)
+(no skateboarding, 3.1 minutes)
+
+legs = 300, distance = 99394, feet, time = 366.7 minutes
